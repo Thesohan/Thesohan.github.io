@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+}s
+.container{
+  /* display: run-in; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+h1{
+  box-shadow: 2px 4px 5px #888888;
+  width: 200px;
+  font-family: sans-serif;
+  font-size: 30px;
+  text-align: center;
+  border-right: 2px solid  pink;
+  border-bottom: 2px solid pink;
+}
+img{
+  margin: 10px;
+  width: 250px;
+  height: 250px;
+  transition: all 1s;
+}
+img:hover{
+  transform: scale(1.1);
+}
