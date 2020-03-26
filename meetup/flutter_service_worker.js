@@ -29,7 +29,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/FontManifest.json": "08792490555b179235543cfffa3ed5ec",
-"main.dart.js": "93c02e66907d3aa0348845a050d99678",
+"main.dart.js": "a88ab7cc54a25dd1198e753e62d33b8f",
 "index.html": "8e3dfdde5f28d24b69fc72b94aa9e485"
 };
 
